@@ -1,0 +1,8 @@
+C:\Users\borzj\source\repos\URLTester\URLTester\bin\Debug\URLTester.exe.config
+C:\Users\borzj\source\repos\URLTester\URLTester\bin\Debug\URLTester.exe
+C:\Users\borzj\source\repos\URLTester\URLTester\bin\Debug\URLTester.pdb
+C:\Users\borzj\source\repos\URLTester\URLTester\obj\Debug\URLTester.csproj.AssemblyReference.cache
+C:\Users\borzj\source\repos\URLTester\URLTester\obj\Debug\URLTester.csproj.SuggestedBindingRedirects.cache
+C:\Users\borzj\source\repos\URLTester\URLTester\obj\Debug\URLTester.csproj.CoreCompileInputs.cache
+C:\Users\borzj\source\repos\URLTester\URLTester\obj\Debug\URLTester.exe
+C:\Users\borzj\source\repos\URLTester\URLTester\obj\Debug\URLTester.pdb

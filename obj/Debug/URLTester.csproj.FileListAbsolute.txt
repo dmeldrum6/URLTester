@@ -1,0 +1,7 @@
+C:\Users\DavidM\source\repos\URLTester\bin\Debug\URLTester.exe.config
+C:\Users\DavidM\source\repos\URLTester\bin\Debug\URLTester.exe
+C:\Users\DavidM\source\repos\URLTester\bin\Debug\URLTester.pdb
+C:\Users\DavidM\source\repos\URLTester\obj\Debug\URLTester.csproj.AssemblyReference.cache
+C:\Users\DavidM\source\repos\URLTester\obj\Debug\URLTester.csproj.CoreCompileInputs.cache
+C:\Users\DavidM\source\repos\URLTester\obj\Debug\URLTester.exe
+C:\Users\DavidM\source\repos\URLTester\obj\Debug\URLTester.pdb

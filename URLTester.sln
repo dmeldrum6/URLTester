@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.6.33829.357
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36107.64
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLTester", "URLTester\URLTester.csproj", "{080A8EED-BCB0-47C5-89CA-9C0162D0DBB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLTester", "URLTester.csproj", "{D863D51B-5058-422C-A62F-66F247AD5441}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{080A8EED-BCB0-47C5-89CA-9C0162D0DBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{080A8EED-BCB0-47C5-89CA-9C0162D0DBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{080A8EED-BCB0-47C5-89CA-9C0162D0DBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{080A8EED-BCB0-47C5-89CA-9C0162D0DBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D863D51B-5058-422C-A62F-66F247AD5441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D863D51B-5058-422C-A62F-66F247AD5441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D863D51B-5058-422C-A62F-66F247AD5441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D863D51B-5058-422C-A62F-66F247AD5441}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7C1C5044-69E3-4820-A227-08CE1FA17BC7}
+		SolutionGuid = {1A1B4951-631A-42B8-99CB-C6A803C7F5E7}
 	EndGlobalSection
 EndGlobal
